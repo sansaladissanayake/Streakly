@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="public/logo.png" alt="Streakly" width="60" />
+ 
   <br />
   Streakly
 </h1>
